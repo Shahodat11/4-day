@@ -1,0 +1,33 @@
+body a {
+    text-decoration: none;
+    color: white;
+    line-height: 80px;
+}
+
+.btn {
+    height: 50px;
+    font-size: 18px;
+    background-color: #04aa6d;
+    color: #ffffff;
+}
+
+.btn-2 {
+    background-color: black;
+    height: 50px;
+    font-size: 18px;
+    color: white;
+}
+
+.about p , .html-example p * {
+    line-height: 40px;
+    text-indent: 20px;
+}
+
+.about {
+    background-color: rgb(217, 238, 225);
+}
+
+.html-yourself *, .html-example * {
+    text-indent: 20px;
+    line-height: 40px;
+}
